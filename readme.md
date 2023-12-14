@@ -15,9 +15,29 @@ https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit<br>
         <td>12세 이하인 여자 환자 목록 출력하기</td>
         <td>https://school.programmers.co.kr/learn/courses/30/lessons/132201</td>
     </tr>
+    <tr>
+        <td>131536</td>
+        <td>재구매가 일어난 상품과 회원 리스트 구하기</td>
+        <td>https://school.programmers.co.kr/learn/courses/30/lessons/131536</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
-<h2>Select</h2>
+<h2></h2>
 <table>
     <tr>
         <th scope="col">번호</td>
@@ -31,7 +51,7 @@ https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit<br>
     </tr>
 </table>
 
-<h2>Select</h2>
+<h2></h2>
 <table>
     <tr>
         <th scope="col">번호</td>
