@@ -1,0 +1,46 @@
+<h1>SQL-Kit</h1>
+
+<h2>Lecture</h2>
+https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit<br>
+
+<h2>Select</h2>
+<table>
+    <tr>
+        <th scope="col">번호</td>
+        <th scope="col">문제</td>
+        <th scope="col">문제링크</td>
+    </tr>
+    <tr>
+        <td>132201</td>
+        <td>12세 이하인 여자 환자 목록 출력하기</td>
+        <td>https://school.programmers.co.kr/learn/courses/30/lessons/132201</td>
+    </tr>
+</table>
+
+<h2>Select</h2>
+<table>
+    <tr>
+        <th scope="col">번호</td>
+        <th scope="col">문제</td>
+        <th scope="col">문제링크</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+<h2>Select</h2>
+<table>
+    <tr>
+        <th scope="col">번호</td>
+        <th scope="col">문제</td>
+        <th scope="col">문제링크</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
