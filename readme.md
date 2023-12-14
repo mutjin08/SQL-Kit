@@ -21,9 +21,9 @@ https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit<br>
         <td>https://school.programmers.co.kr/learn/courses/30/lessons/131536</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>131537</td>
+        <td>오프라인/온라인 판매 데이터 통합하기</td>
+        <td>https://school.programmers.co.kr/learn/courses/30/lessons/131537</td>
     </tr>
     <tr>
         <td></td>
